@@ -18,7 +18,7 @@
 
 [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=web_programming_project&theme=radical)](https://github.com/YourUsername/AnotherProject)
 
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=2021ICM_ProblemD&theme=radical)](https://github.com/YourUsername/AnotherProject)
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=myproject&theme=radical)](https://github.com/YourUsername/AnotherProject)
 
 ---
 
