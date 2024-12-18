@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Yuxin(Ivy) Chen
 
 ## 🚀 About Me  
-- 🎓 **Education**: [Computer and DataScience] at [University of Helsinki]  
+- 🎓 **Education**: Computer and DataScience Student at University of Helsinki  
 - 💻 **Skills**: Python | JavaScript | React | Node.js | SQL  
 - 🌱 **Currently Learning**: Machine Learning and Artificial Intelligence  
 - 🎯 **Goals**: Contributing to open-source projects and building innovative tools  
