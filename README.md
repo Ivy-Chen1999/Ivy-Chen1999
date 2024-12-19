@@ -16,9 +16,9 @@
 ## 🌟 Featured Projects  
 
 
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=web_programming_project&theme=radical)](https://github.com/YourUsername/AnotherProject)
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=web_programming_project&theme=radical)](https://github.com/Ivy-Chen1999/web_programming_project)
 
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=2021_ICM_ProblemD&theme=radical)](https://github.com/YourUsername/AnotherProject)
+[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=2021_ICM_ProblemD&theme=radical)](https://github.com/Ivy-Chen1999/2021_ICM_ProblemD)
 
 ---
 
