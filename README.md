@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Yuxin(Ivy) Chen
 
 ## 🥳 About Me  
-- 🙇‍♀️ **Education**: Computer and DataScience Student at University of Helsinki  
+- 🙇‍♀️ **Education**: Computer and DataScience Student at University of Helsinki （current progress 50%）  
 - ⌨️ **Skills**: Python | JavaScript | React | Node.js | SQL  
-- 💡 **Currently Learning**: Machine Learning and Artificial Intelligence  
+- 💡 **Currently Learning**: AI-agent,cloud computing  
 - 🔮 **Goals**: Contributing to open-source projects and building innovative tools  
 
 ---
@@ -16,9 +16,9 @@
 ## 🌟 Featured Projects  
 
 
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=web_programming_project&theme=radical)](https://github.com/Ivy-Chen1999/web_programming_project)
+[![A flask web application](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=web_programming_project&theme=radical)](https://github.com/Ivy-Chen1999/web_programming_project)
 
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=2021_ICM_ProblemD&theme=radical)](https://github.com/Ivy-Chen1999/2021_ICM_ProblemD)
+[![Data Mining - ICM solution](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=2021_ICM_ProblemD&theme=radical)](https://github.com/Ivy-Chen1999/2021_ICM_ProblemD)
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 🐱 Get In Touch  
 - **Email**: yuxin.chen@helsinki.fi  
-- **LinkedIn**: [Connect Here](https://www.linkedin.com/in/yuxin-chen-9a98172ba/)  
+- **LinkedIn**: [Connect Here](www.linkedin.com/in/yuxin-ivy-chen)  
 
 
 ---
