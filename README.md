@@ -8,22 +8,22 @@
 
 ---
 
-## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivy-Chen1999&show_icons=true&theme=radical)
-
----
-
 ## 🌟 Featured Projects  
 
+[![A Desk-top application with UI](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=my_software_project&theme=radical)](https://github.com/Ivy-Chen1999/my_software_project)
 
 [![A flask web application](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=web_programming_project&theme=radical)](https://github.com/Ivy-Chen1999/web_programming_project)
 
 [![Data Mining - ICM solution](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=2021_ICM_ProblemD&theme=radical)](https://github.com/Ivy-Chen1999/2021_ICM_ProblemD)
 
+[![Kaggle Competiton](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=Aaltoes-CVHackathon&theme=radical)](https://github.com/Ivy-Chen1999/Aaltoes-CVHackathon)
+
 ---
 
-## 👀 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivy-Chen1999&layout=compact&theme=radical)
+
+## GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivy-Chen1999&show_icons=true&theme=radical)
+
 
 ---
 
