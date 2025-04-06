@@ -18,6 +18,7 @@
 
 [![Kaggle Competiton](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=Aaltoes-CVHackathon&theme=radical)](https://github.com/Ivy-Chen1999/Aaltoes-CVHackathon)
 
+[![Data Science Projects](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=data_science_project&theme=radical)](https://github.com/Ivy-Chen1999/data_science_project)
 ---
 
 
