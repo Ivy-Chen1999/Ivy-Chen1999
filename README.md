@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Yuxin(Ivy) Chen
+# Hi there 👋 
+## I'm Chen Yuxin, you can call me Ivy
+
 
 ## 🥳 About Me  
 - 🙇‍♀️ **Education**: Computer and DataScience Student at University of Helsinki （current progress 50%）  
