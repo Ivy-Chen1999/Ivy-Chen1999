@@ -22,12 +22,6 @@
 ---
 
 
-## GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivy-Chen1999&show_icons=true&theme=radical)
-
-
----
-
 ## 🐱 Get In Touch  
 - **Email**: yuxin.chen@helsinki.fi  
 - **LinkedIn**: [Connect Here](www.linkedin.com/in/yuxin-ivy-chen)  
