@@ -14,7 +14,7 @@
 
 [![A Desk-top application with Pyqt](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=my_software_project&theme=radical)](https://github.com/Ivy-Chen1999/my_software_project)
 
-[![web application](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=web_programming_project&theme=radical)](https://github.com/Ivy-Chen1999/web_programming_project)
+[![web application](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=Fitness_Planet&theme=radical)](https://github.com/Ivy-Chen1999/Fitness_Planet)
 
 [![Data Mining - ICM solution](https://github-readme-stats.vercel.app/api/pin/?username=Ivy-Chen1999&repo=2021_ICM_ProblemD&theme=radical)](https://github.com/Ivy-Chen1999/2021_ICM_ProblemD)
 
