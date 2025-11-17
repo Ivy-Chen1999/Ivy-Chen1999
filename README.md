@@ -3,7 +3,7 @@
 
 
 ## 🥳 About Me  
-- 🙇‍♀️ **Education**: Computer and DataScience Student at University of Helsinki （current progress 80%）  
+- 🙇‍♀️ **Education**: Computer and DataScience Student at University of Helsinki （current progress 90%）  
 - ⌨️ **Skills**: Python | JavaScript | React | Node.js | SQL | C 
 - 💡 **Currently Learning**: GenAI,edge computing  
 - 🔮 **Goals**: Contributing to open-source projects and building innovative tools  
